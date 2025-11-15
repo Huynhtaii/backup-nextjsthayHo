@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Áo thun basic cotton",
+    "price": 199000,
+    "brand": "Uniqlo",
+    "category": "Áo",
+    "img_url": "https://example.com/tee1.jpg",
+    "description": "Áo thun cotton mềm mịn, thoáng mát.",
+    "variants": [
+      { "size": "S", "color": "White", "quantity": 50 },
+      { "size": "M", "color": "Black", "quantity": 60 }
+    ]
+  },
+  {
+    "name": "Áo polo pique",
+    "price": 299000,
+    "brand": "Uniqlo",
+    "category": "Áo",
+    "img_url": "https://example.com/polo.jpg",
+    "description": "Áo polo vải pique cao cấp, form slim.",
+    "variants": [
+      { "size": "M", "color": "Navy", "quantity": 40 },
+      { "size": "L", "color": "Gray", "quantity": 45 }
+    ]
+  },
+  {
+    "name": "Sơ mi oxford",
+    "price": 399000,
+    "brand": "Zara",
+    "category": "Áo",
+    "img_url": "https://example.com/shirt.jpg",
+    "description": "Áo sơ mi cotton oxford, cổ bẻ thanh lịch.",
+    "variants": [
+      { "size": "M", "color": "Blue", "quantity": 40 },
+      { "size": "L", "color": "White", "quantity": 50 }
+    ]
+  },
+  {
+    "name": "Quần jeans slim",
+    "price": 599000,
+    "brand": "Zara",
+    "category": "Quần",
+    "img_url": "https://example.com/jeans.jpg",
+    "description": "Quần jeans form slim fit, co giãn nhẹ.",
+    "variants": [
+      { "size": "29", "color": "Dark Blue", "quantity": 35 },
+      { "size": "31", "color": "Black", "quantity": 40 }
+    ]
+  },
+  {
+    "name": "Quần tây basic",
+    "price": 499000,
+    "brand": "H&M",
+    "category": "Quần",
+    "img_url": "https://example.com/trouser.jpg",
+    "description": "Quần tây công sở form basic, dễ phối đồ.",
+    "variants": [
+      { "size": "M", "color": "Black", "quantity": 30 },
+      { "size": "L", "color": "Charcoal", "quantity": 25 }
+    ]
+  },
+  {
+    "name": "Áo khoác bomber",
+    "price": 799000,
+    "brand": "H&M",
+    "category": "Áo khoác",
+    "img_url": "https://example.com/bomber.jpg",
+    "description": "Áo bomber vải gió, kiểu dáng trẻ trung.",
+    "variants": [
+      { "size": "M", "color": "Green", "quantity": 20 },
+      { "size": "L", "color": "Black", "quantity": 20 }
+    ]
+  },
+  {
+    "name": "Áo hoodie fleece",
+    "price": 699000,
+    "brand": "Uniqlo",
+    "category": "Áo khoác",
+    "img_url": "https://example.com/hoodie.jpg",
+    "description": "Áo hoodie vải nỉ ấm, mềm mịn, unisex.",
+    "variants": [
+      { "size": "M", "color": "Gray", "quantity": 25 },
+      { "size": "XL", "color": "Black", "quantity": 30 }
+    ]
+  },
+  {
+    "name": "Váy chữ A",
+    "price": 549000,
+    "brand": "Zara",
+    "category": "Váy",
+    "img_url": "https://example.com/skirt1.jpg",
+    "description": "Váy chữ A dáng ngắn, phong cách hiện đại.",
+    "variants": [
+      { "size": "S", "color": "Beige", "quantity": 15 },
+      { "size": "M", "color": "Black", "quantity": 20 }
+    ]
+  },
+  {
+    "name": "Váy midi xếp ly",
+    "price": 649000,
+    "brand": "H&M",
+    "category": "Váy",
+    "img_url": "https://example.com/skirt2.jpg",
+    "description": "Váy midi xếp ly nữ tính, chất vải chiffon.",
+    "variants": [
+      { "size": "M", "color": "Pink", "quantity": 18 },
+      { "size": "L", "color": "Navy", "quantity": 22 }
+    ]
+  },
+  {
+    "name": "Quần short khaki",
+    "price": 349000,
+    "brand": "Uniqlo",
+    "category": "Quần",
+    "img_url": "https://example.com/short.jpg",
+    "description": "Quần short kaki trẻ trung, thoáng mát.",
+    "variants": [
+      { "size": "M", "color": "Khaki", "quantity": 35 },
+      { "size": "L", "color": "Olive", "quantity": 40 }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
